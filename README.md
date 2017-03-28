@@ -1,0 +1,2 @@
+# Bethanys
+MVC core learining
