@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{340E288D-EA84-40AA-9F0F-78F3FAD6C1BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A3ED6B6-4262-4C90-9457-1F838F4E02E0}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BethanysPieShop", "src\BethanysPieShop\BethanysPieShop.xproj", "{18DE2FA3-E4FA-4E9F-B9F5-31A403D1A133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DE2FA3-E4FA-4E9F-B9F5-31A403D1A133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DE2FA3-E4FA-4E9F-B9F5-31A403D1A133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DE2FA3-E4FA-4E9F-B9F5-31A403D1A133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DE2FA3-E4FA-4E9F-B9F5-31A403D1A133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18DE2FA3-E4FA-4E9F-B9F5-31A403D1A133} = {340E288D-EA84-40AA-9F0F-78F3FAD6C1BE}
+	EndGlobalSection
+EndGlobal
